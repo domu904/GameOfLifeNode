@@ -1,0 +1,26 @@
+{
+  "name": "GameOfLifeNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domu904/GameOfLifeNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domu904/GameOfLifeNode/issues"
+  },
+  "homepage": "https://github.com/domu904/GameOfLifeNode#readme"
+}
